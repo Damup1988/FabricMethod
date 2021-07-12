@@ -1,0 +1,16 @@
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csprojAssemblyReference.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache
